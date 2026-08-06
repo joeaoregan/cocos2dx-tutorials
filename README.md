@@ -12,6 +12,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/joeaoregan/cocos2dx-tutorials?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/joeaoregan/cocos2dx-tutorials?style=social)
 
+## Play on GitHub Pages
+
+- [Space Game](https://joeoregan.github.io/JS-SpaceGame/)
+
 ## Doodler
 
 Make School Tutorial. Build a Collaborative Drawing App.  
@@ -29,6 +33,8 @@ Original Ray Wenderlich Cocos2d-x 3.5 tutorial [here](https://www.raywenderlich.
 Cocos2D-X Tutorial for iOS and Android: Space Game. 
 
 Original Ray Wenderlich Cocos2d-x 2.1 / 3.0 tutorial [here](https://www.raywenderlich.com/2728-cocos2d-x-tutorial-for-ios-and-android-space-game)
+
+Play on GitHub Pages: <https://joeoregan.github.io/JS-SpaceGame/>
 
 ## Sushineko
 
